@@ -3,7 +3,7 @@
   "description": "Integrate KonfHub with Mautic to nurture the leads and enable personalized communication.",
   "type": "mautic-plugin",
   "require": {
-    "php": ">=8.3",
+    "php": ">=8.0",
     "mautic/core-lib": "^5.0"
   },
   "license": "GPL-3.0-or-later",
