@@ -4,6 +4,7 @@
 !app/cache/.gitkeep
 !app/logs/.gitkeep
 
+
 # Email spool folder
 /app/spool/*
 
@@ -38,6 +39,8 @@
 # PHPUnit
 /app/phpunit.xml
 /phpunit.xml
+.phpunit.result.cache
+Tests/Coverage
 
 # Build data
 /build/
